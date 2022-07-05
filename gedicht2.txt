@@ -11,6 +11,10 @@ Dunkelgrün
 
 Blau
 
+Hellblau
+
+Dunkelblau
+
 Gelb
 
 Magenta
