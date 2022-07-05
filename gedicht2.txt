@@ -5,6 +5,10 @@ Rot
 
 Grün
 
+Hellgrün
+
+Dunkelgrün
+
 Blau
 
 Gelb
